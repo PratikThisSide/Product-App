@@ -186,6 +186,6 @@ The servlet removes the corresponding record from the database and redirects the
 
 ## 👨‍💻 Author
 
-**Sanidhya Vyas**
+**Pratik Raj**
 
 A simple and efficient Product Management System demonstrating Java Web Development using Servlets, JSP, JDBC, and MySQL with a clean layered architecture.
